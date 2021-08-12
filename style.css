@@ -1,0 +1,92 @@
+html, body {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: rgb(65, 65, 65);
+  color:yellow;
+  font-family: 'Roboto', sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+main {
+  width: 100vw;
+  min-height: 50vh;
+  background-color: rgb(34, 34, 34);
+  text-align: center;
+  max-height: fit-content;
+
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  color: rgb(235, 235, 235);
+  text-align: center;
+  
+}
+input {
+  width: 55px;
+  height: 20px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+strong {
+  color: orange;
+}
+span{
+  word-wrap: break-word;
+}
+
+.container.-btns {
+  display: inline;
+  margin-bottom: 20px;
+  
+}
+
+.btn {
+  margin-top: 15px;
+  width: 130px;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bold;
+  border: 1px solid darkblue;
+  color: blue;
+  height: 50px;
+}
+
+.btn:hover {
+  background-color: blue;
+  color: lightblue;
+}
+
+.btn.-add {
+  width: 100px;
+  color: green;
+  background-color: white;
+  border: 1px solid green;
+  height: 28px;
+  
+}
+
+.btn.-add:hover {
+  background-color: green;
+  color: white;
+}
+
+.btn.-clear {
+  background-color: white;
+  color: saddlebrown;
+  border: 1px solid orange
+}
+
+.btn.-clear:hover {
+  background-color: yellow;
+  color: saddlebrown;
+}

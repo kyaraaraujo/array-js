@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="./functions/InputElement.js"></script>
+  <script type="module" src="./main.js"></script>
+
+  <title>Array-JS</title>
+</head>
+<body>
+
+  <main>
+    <h1>Array- JS</h1>
+    <div class="container">
+      
+      <form action="">
+        <label>
+          Enter an integer number: 
+          <input type="tel" maxlength="15" id="number" autofocus>
+        </label>
+        <button type="submit" onclick="handleAddToList(event)" class="btn -add">
+          Add
+        </button>
+      </form>
+      
+      <div class="container -btns">
+        <button onclick="clearList()" class="btn -clear">
+          Clear the list
+        </button>
+        <button class="btn" onclick="doubleValues()">
+          Double values
+        </button>
+        <button class="btn" onclick="sumValues()">
+          Sum values
+        </button>
+      </div>
+
+      <span class="content"></span>
+      <span class="content -changed"></span>
+
+    </div>
+  </main>
+
+</body>
+</html>
