@@ -1,19 +1,14 @@
 # Array-JS
 
-<center>
+<div align="center">
 
 [Português](#português) &nbsp; | &nbsp; [English](#english) 
 
-<br>
-<div style="display: flex; width: 120px; text-align: center; color: white;">
-  <span style="background: purple; width:70px;  border-radius: 20px 0 0 20px;">License</span>
-  <span style="background: green; width: 50px; border-radius: 0 20px 20px 0;">MIT</span>
-</div><br>
 
 <table>
   <tr>
     <th>HTML</th>
-    <th>&nbsp; CSS</th>
+    <th>CSS</th>
     <th>JavaScript</th>
   </tr>
   <tr align="center">
@@ -30,20 +25,19 @@
 </table>
 
 
+| Status do Projeto  | Project Status | License |
+|        :---:       |      :---:     |  :---:  |
+| Em desenvolvimento |   In Progress  |   MIT   |
 
-|                 [Kyara Araújo](https://github.com/kyaraaraujo) |
-| ------------------------------------------------------------------------------ |
-| <img src="https://github.com/kyaraaraujo.png" align="center" height="80" width="80" alt="Kyara Araújo's photo" title="Kyara Araújo" /> |
-
-| Status do Projeto  | Project Status | 
-| ------------------ |-------------- | 
-| Em desenvolvimento |  In Progress  |
-
+|                       [Kyara Araújo](https://github.com/kyaraaraujo)                              |
+|                                        :---:                                                      |
+| <img src="https://github.com/kyaraaraujo.png" height="80" width="80" alt="Kyara Araújo's photo"/> |  
+  
 <br>
 <img src="./assets/screenshots/start.png" width="70%"  
 alt="project's first load screenshot showing input and buttons to execute actions to the list." />
 
-</center>
+</div>
 
 
 
@@ -52,7 +46,7 @@ alt="project's first load screenshot showing input and buttons to execute action
 ## Português
 
 ## Tópicos
-<center>
+
 
 [Objetivo](#objetivo) &nbsp;&nbsp; | &nbsp;&nbsp; 
 [Aprendizados](#aprendizados) &nbsp;&nbsp; | &nbsp;&nbsp; 
@@ -60,7 +54,7 @@ alt="project's first load screenshot showing input and buttons to execute action
 [Como usar](#como-usar) &nbsp;&nbsp; | &nbsp;&nbsp; 
 [Referências](#referências) &nbsp;&nbsp; 
 
-</center><br>
+<br>
 
 ## Objetivo:
 O objetivo deste projeto é praticar a manipulação de array de números e utilizar como consulta de estudo.
@@ -107,7 +101,6 @@ Através de servidor local (exemplo: criando seu servidor ou alguma extensão do
 ## English
 
 ## Topics
-<center>
 
 [Purpose](#purpose) &nbsp;&nbsp; | &nbsp;&nbsp; 
 [Learnings](#learnings) &nbsp;&nbsp; | &nbsp;&nbsp; 
@@ -115,7 +108,7 @@ Através de servidor local (exemplo: criando seu servidor ou alguma extensão do
 [How to Use](#how-to-use) &nbsp;&nbsp; | &nbsp;&nbsp; 
 [References](#references) &nbsp;&nbsp; 
 
-</center><br>
+<br>
 
 ## Purpose
 The intention of this project is for practicing array manipulation and for study purpose.
